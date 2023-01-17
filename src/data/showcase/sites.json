@@ -1,32 +1,32 @@
 [
   {
-    "title": "PoliNations",
+    "title": "Viva tu crédito",
     "image": "./images/polinations.png",
-    "url": "https://polinations.com/"
+    "url": "https://www.vivatucredito.com/"
   },
   {
-    "title": "Astro Docs",
+    "title": "Deko",
     "image": "./images/astro-docs.png",
-    "url": "https://docs.astro.build/"
+    "url": "https://dekoei.com/"
   },
   {
-    "title": "<div>RIOTS",
+    "title": "Tinngo",
     "image": "./images/divriots.png",
-    "url": "https://divriots.com/"
+    "url": "https://www.tinngo.com/"
   },
   {
-    "title": "Designcember",
+    "title": "Atalú",
     "image": "./images/designcember.png",
-    "url": "https://designcember.com/"
+    "url": "https://atalu.co/"
   },
   {
-    "title": "The Firebase Blog",
+    "title": "Hotel Atrium Plaza",
     "image": "./images/firebase-blog.png",
-    "url": "https://firebase.blog/"
+    "url": "https://www.hotelatriumplaza.com/"
   },
   {
-    "title": "Corset",
+    "title": "Elitex",
     "image": "./images/corset.png",
-    "url": "https://corset.dev/"
+    "url": "https://elitexis.com/"
   }
 ]
